@@ -29,6 +29,11 @@ export default App;
 - run `npm install`
 - start the app with `npm start`
 - verify the app is running
+- modify line 6 in `App.test.js` to:
+
+`const linkElement = screen.getByText(/Hello CSCI E-39!/i);`
+
+- make sure all tests pass when running `npm run test` 
 
 ## Step 2
 Deploy the application using one of the methods covered in class: Github Pages, Render, or AWS. If you prefer to use a different service, explain your choice and process.
