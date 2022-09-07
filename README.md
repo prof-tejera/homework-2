@@ -36,7 +36,7 @@ export default App;
 - make sure all tests pass when running `npm run test` 
 
 ## Step 2
-Deploy the application using one of the methods covered in class: Github Pages, Render, or AWS. If you prefer to use a different service, explain your choice and process.
+Deploy the application using Github Pages or a different method if you prefer. As long as the URL is avaliable on the public internet and live for 2 weeks, then you can use whatever method you want.
 
 ## Submitting
 Edit this file (README.md) and complete the following:
