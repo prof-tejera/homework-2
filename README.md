@@ -25,7 +25,7 @@ function App() {
 
 export default App;
 ```
-
+- run `cd my-first-app`
 - run `npm install`
 - start the app with `npm start`
 - verify the app is running
