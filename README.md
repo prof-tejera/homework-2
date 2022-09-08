@@ -42,7 +42,6 @@ Deploy the application using Github Pages or a different method if you prefer. A
 Edit this file (README.md) and complete the following:
 
 - URL to live application: 
-- How did you deploy it?
 - What code editor are you using?
 
 That is all!
