@@ -25,7 +25,7 @@ function App() {
 
 export default App;
 ```
-- run `cd my-first-app`
+- move all of the contents of `my-first-app` to the repos root directory (e.g. for mac/linux `mv my-first-app/* .`)
 - run `npm install`
 - start the app with `npm start`
 - verify the app is running
